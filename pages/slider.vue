@@ -67,7 +67,7 @@ export default {
           slug: 'brick'
         },
         {
-          productName: "Engweld X-Pert S150 mma Inverter",
+          productName: "Weldgalaxy X-Pert S150 mma Inverter",
           price: { max: "£909.90" },
           productAsset: { preview:"/images/slider/headphone.jpg" },
           productId: '55',
